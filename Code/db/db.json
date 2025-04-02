@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Die With A Smile",
+      "singer": "Lady Gaga and Bruno Mars",
+      "genre": "Romantic",
+      "imgUrl": "public/cover/diewithsmile.jpg",
+      "songUrl": "public/Songs/song2.mp3"
+    },
+    {
+      "id": 2,
+      "title": "A.P.T",
+      "singer": "Bruno Mars and Rose",
+      "genre": "k-POP",
+      "imgUrl": "public/cover/apt.webp",
+      "songUrl": "public/Songs/song3.mp3"
+    },
+    {
+      "id": 3,
+      "title": "Hey Mama",
+      "singer": "Nicki Minaj",
+      "genre": "Dance/Electronic",
+      "imgUrl": "public/cover/heymama.jpeg",
+      "songUrl": "public/Songs/song4.mp3"
+    },
+    {
+      "id": 4,
+      "title": " Chammak Challo",
+      "singer": "Vishal-Shekhar, Akon",
+      "genre": "world, pop-folk",
+      "imgUrl": "public/cover/Chammak Challo.jpeg",
+      "songUrl": "public/Songs/Chammak Challo.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Hymn for the Weekend",
+      "singer": "Beyoncé",
+      "genre": " pop rocksong",
+      "imgUrl": "public/cover/hymn.jpeg",
+      "songUrl": "public/Songs/Coldplay.mp3"
+    },
+    {
+      "id": 6,
+      "title": "My Life Is Going On",
+      "singer": " Cecilia Krull",
+      "genre": "Emotional",
+      "imgUrl": "public/cover/money.jpeg",
+      "songUrl": "public/Songs/money.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Idhazhin Oram",
+      "singer": "Ajeesh and Anirudh Ravichander",
+      "genre": "Love",
+      "imgUrl": "public/cover/3.jpeg",
+      "songUrl": "public/Songs/Idhazhin-Oram.mp3"
+    },
+    {
+      "itemId": 8,
+      "title": "Sawadeeka",
+      "imgUrl": "public/cover/Sawadeeka.jpeg",
+      "genre": "pop",
+      "songUrl": "public/cover/Sawadeeka.jpeg",
+      "singer": " Anirudh Ravichander",
+      "id": 2
+    },
+    {
+      "id": 9,
+      "title": "Shape of you",
+      "singer": "Ed Sheeran",
+      "genre": "pop",
+      "imgUrl": "public/cover/shapeofyou.jpeg",
+      "songUrl": "public/songs/song1.mp3"
+    },
+    {
+      "id": 10,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 11,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 12,
+      "title": "Humnava Mere",
+      "singer": "Jubin Nautiyal",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/259/Humnava-Mere-Hindi-2018-20180522-500x500.jpg",
+      "songUrl": "Songs/Humnava Mere.mp3"
+    },
+    {
+      "id": 13,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 14,
+      "title": "Sanam Teri Kasam",
+      "singer": "Ankit Tiwari",
+      "genre": "Emotional",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c79ed9daa0ef22e185c71cd",
+      "songUrl": "public/Songs/Sanam Teri Kasam.mp3"
+    },
+    {
+      "id": 15,
+      "title": "Tum hi Ho",
+      "singer": "Arijit Singh",
+      "genre": "Emotional",
+      "imgUrl": "https://upload.wikimedia.org/wikipedia/en/f/ff/Tum_Hi_Ho_cover.jpeg",
+      "songUrl": "public/Songs/Tum Hi Ho.mp3"
+    },
+    {
+      "id": 16,
+      "title": "zihal-e-misk",
+      "singer": "Shreya Ghoshal",
+      "genre": "Emotional",
+      "imgUrl": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1685023719.jpg",
+      "songUrl": "public/Songs/Zihaal e Miskin.mp3"
+    },
+    {
+      "id": 17,
+      "title": "Enna-naa-seiven",
+      "singer": "Enna-naa-seiven",
+      "genre": "Emotional",
+      "imgUrl": "public/cover/Enna naan seiven.jpg",
+      "songUrl": "public/Songs/Enna-Naan-Seiven-MassTamilan.com.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 1,
+      "title": "Die With A Smile",
+      "imgUrl": "public/cover/diewithsmile.jpg",
+      "genre": "Romantic",
+      "songUrl": "public/Songs/song2.mp3",
+      "singer": "Lady Gaga and Bruno Mars",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "A.P.T",
+      "imgUrl": "public/cover/apt.webp",
+      "genre": "k-POP",
+      "songUrl": "public/Songs/song3.mp3",
+      "singer": "Bruno Mars and Rose",
+      "id": 2
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 1
+    },
+    {
+      "itemId": 8,
+      "title": "Sawadeeka",
+      "imgUrl": "public/cover/Sawadeeka.jpeg",
+      "genre": "pop",
+      "songUrl": "public/cover/Sawadeeka.jpeg",
+      "singer": " Anirudh Ravichander",
+      "id": 2
+    },
+    {
+      "itemId": 7,
+      "title": "zihal-e-misk",
+      "imgUrl": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1685023719.jpg",
+      "genre": "Emotional",
+      "songUrl": "public/Songs/Zihaal e Miskin.mp3",
+      "singer": "Shreya Ghoshal",
+      "id": 3
+    },
+    {
+      "itemId": 1,
+      "title": "Die With A Smile",
+      "imgUrl": "public/cover/diewithsmile.jpg",
+      "genre": "Romantic",
+      "songUrl": "public/Songs/song2.mp3",
+      "singer": "Lady Gaga and Bruno Mars",
+      "id": 4
+    }
+  ]
+}
